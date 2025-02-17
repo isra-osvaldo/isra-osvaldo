@@ -7,10 +7,11 @@
 #### About me 👤
 <hr>
 
-<p>I am a fourth-year Computer Engineering student at Duoc UC.
-I am very interested in programming and the ability to create solutions.</p>
-<p>I am currently studying the Fullstack JavaScript program at DesafioLatam.</p>
-<p>My greatest strengths are as a Frontend Developer, but I am also passionate about databases.</p>
+- I am a fourth-year Computer Engineering student at Duoc UC.
+- I am currently studying the Fullstack JavaScript program at <a href="https://desafiolatam.com/full-stack-javascript-b/">DesafioLatam</a>.
+- My greatest strengths are as a Frontend Developer, but I am also passionate about databases
+
+
 
 <br>
 
